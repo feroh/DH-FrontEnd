@@ -1,40 +1,53 @@
 header {
-    background-color:#005677;
+    background-color:#2488af;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     margin-top: 0%;
 }
 
+/* selector de clase */
 .tituloSeccion{
-    background-color: #005677;
+    background-color: #2488af;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+
+    
 }
 
-.datos{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.imagen{
     background-image: url(../img/Foto.png);
     background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: center;
+    border-radius: 15%;
+    margin: auto;
+    padding-block-end: 3%;
+    display:flex;
+    height: ;
+}
+.datos{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background size: 12%;
+    border-radius: 15px;
+    
 }
 ]
 h1{
-    background-color: #C4C4C4;
+
     font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 20%;
     font-weight: 700;
     line-height: 29.64px;
     text-align: center;
 }
 
-/* selector de clase */
-.tituloSeccion{
-    background-color: #C4C4C4;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 16.64px;
-}
+
 
 footer{
-    background-color:#005677;
+    background-color:#2488af;
     text-align: center;
 }
